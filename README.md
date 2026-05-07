@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Aliyan Khan
 
-<!--
-**aliyan-python/aliyan-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+I work on Python development and build AI-based tools and applications. My focus is on creating practical AI systems, problem-solving projects, and interactive applications using Python.
 
-Here are some ideas to get you started:
+## Core Focus:
+- Python Development.
+- AI Tools & Applications.
+- Machine Learning Utilities (basic to intermediate level projects).
+- Problem-Solving Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects:
+
+### 🤖 AI Projects:
+- AI-Chatbot.  
+- AI-Code-Analyzer-Tool.  
+- AI-Voice-Assistant.  
+
+### 🎮 Game Projects:
+- Hangman-Game.  
+- Quiz-game-with-Signup-and-login-system.  
+
+### 🔐 System Projects:
+- Multi-Users-Signup-And-Login-System.  
+
+## Skills
+- Python.
+- Basic AI Integration.
+- Logic Building.
+- CLI & GUI Applications.
+
+## GitHub Profile:
+Explore my work here:  
+https://github.com/aliyan-python
+
+## Contact:
+For collaboration, project work, or discussions related to Python and AI tools:
+📧 Email:kaliyaan63@gmail.com
